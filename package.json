@@ -1,0 +1,29 @@
+{
+  "name": "todoyelectron",
+  "version": "1.0.0",
+  "description": "Electron app for todoy",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "author": "allenwhitedev",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/allenwhitedev/todoyElectron.git"
+  },
+  "keywords": [
+    "todoy",
+    "calendar",
+    "todo",
+    "material"
+  ],
+  "bugs": {
+    "url": "https://github.com/allenwhitedev/todoyElectron/issues"
+  },
+  "homepage": "https://github.com/allenwhitedev/todoyElectron#readme",
+  "devDependencies": {
+    "electron": "^2.0.0"
+  }
+}
